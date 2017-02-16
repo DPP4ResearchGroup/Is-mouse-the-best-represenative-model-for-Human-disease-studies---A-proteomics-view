@@ -1,6 +1,5 @@
 abstract.tex
 section_Introduction_The_mouse_shares__.tex
-cite_Justice_2011__.tex
 section_Methods_section_Results_section__.tex
 section_Results__.tex
 section_Discussions_and_Future_Study__.tex
