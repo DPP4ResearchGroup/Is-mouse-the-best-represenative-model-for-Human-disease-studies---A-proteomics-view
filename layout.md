@@ -2,5 +2,6 @@ abstract.tex
 section_Introduction_The_mouse_shares__.tex
 section_Methods_In_this_study__.tex
 section_Results_In_this_section__.tex
+figures/chart (3)1/chart (3)1.svg
 section_Discussions_and_Future_Study__.tex
 section_Appendix__.tex
