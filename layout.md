@@ -1,8 +1,9 @@
 abstract.tex
-section_Introduction_The_mouse_shares__.tex
+section_Introduction_Despite_the_phylogenetic__.tex
 section_Methods_In_this_study__.tex
 section_Results_In_this_section__.tex
 figures/interactive-figure-1487882553602/figure.html
 figures/interactive-figure-1487884119383/figure.html
+figures/UniProt ID-1/UniProt ID-1.png
 section_Discussions_and_Future_Study__.tex
 section_Appendix__.tex
